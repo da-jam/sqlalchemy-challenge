@@ -129,5 +129,6 @@ dmypy.json
 .pyre/
 
 #Resource and csv
-Resource/
+Resources/
 .csv
+Resources/.csv
